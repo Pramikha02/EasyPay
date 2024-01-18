@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a851764.css",
+    "main.js": "/static/js/main.eb131e08.js",
+    "static/media/using.jpg": "/static/media/using.1c9c8d31805dab352857.jpg",
+    "static/media/phones.png": "/static/media/phones.6232afa2d9421c22b120.png",
+    "static/media/contactus.png": "/static/media/contactus.829b920f6eda58fc6429.png",
+    "static/media/logo.jpg": "/static/media/logo.b95461bd571dfc8cab9b.jpg",
+    "static/media/call.jpg": "/static/media/call.c8f50f0219e5709427ef.jpg",
+    "index.html": "/index.html",
+    "main.6a851764.css.map": "/static/css/main.6a851764.css.map",
+    "main.eb131e08.js.map": "/static/js/main.eb131e08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a851764.css",
+    "static/js/main.eb131e08.js"
+  ]
+}
