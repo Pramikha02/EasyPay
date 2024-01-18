@@ -1,7 +1,7 @@
 # EasyPay
 EasyPay is a Payment Website which is made completely using ReactJs and to store the DataBase Firebase is used.
 
-Website is Hosted at : https://reactfirebasewebsite-45aa5.web.app/
+Website is Hosted at :
 
 Demo Pics:
 
